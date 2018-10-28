@@ -5,10 +5,10 @@ Why waste time say lot word, when few word do trick?
 ![](kevin.gif)
 
 ## Install
-Chrome extension download, (install unpacked with instructions)[https://stackoverflow.com/questions/24577024/install-chrome-extension-not-in-the-store]
+Chrome extension download, [install with instructions](https://stackoverflow.com/questions/24577024/install-chrome-extension-not-in-the-store)
 
 ### Credit
-(Cloud to Butt)[https://github.com/panicsteve/cloud-to-butt]
+[Cloud to Butt](https://github.com/panicsteve/cloud-to-butt)
 
 ### License
 MIT
