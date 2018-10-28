@@ -1,0 +1,19 @@
+{
+  "name": "Why Waste Time?",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Me think, why waste time say lot word, when few word do trick.",
+  "homepage_url": "http://cgermano.com",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persisten": true
+  },
+  "browser_action": {
+    "default_title": "Save time"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
